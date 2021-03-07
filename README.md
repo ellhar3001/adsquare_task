@@ -20,7 +20,7 @@ The graph.ipynb should also run without issue. For this I used seaborn to plot g
 
 The main insights that I drew are spiked in two Mcdonalds & Burger King's. However the number of unique visits is too small to establish whether this a definite trend or not. I believe if i was able to run the task.ipynb with the full data set then i would have been able to establish something more meaningful through my graph.ipynb document.
 
-Tasks 3 and 4 were not completed. If I completing this task for work then I would have taken the csv produced in task.ipynb and run it in Tableau, where it is very easy to plot location data. 
+Tasks 3 and 4 were not completed. If I completing this task for work then I would have taken the csv produced in task.ipynb and run it in Tableau, where it is very easy to plot location data. Due to the wording on the task ('This clause is optional') I took it this was not an essential aspect to complete
 
 Thank you for taking the time to read through this explanation. If you have any questions please reach out to me. Also any feedback would be greatly appreciated. 
 
