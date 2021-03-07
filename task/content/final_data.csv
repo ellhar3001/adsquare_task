@@ -1,0 +1,285 @@
+,date,stores,store_id,total signals,unique visitors
+0,01/04/2021,McDonald's,place_1,1,1
+1,01/06/2021,McDonald's,place_1,1,1
+2,01/08/2021,McDonald's,place_1,1,1
+3,01/12/2021,McDonald's,place_1,2,1
+4,01/16/2021,McDonald's,place_1,1,1
+5,01/17/2021,McDonald's,place_1,1,1
+6,01/05/2021,McDonald's,place_2,2,2
+7,01/06/2021,McDonald's,place_2,1,1
+8,01/15/2021,McDonald's,place_2,1,1
+9,01/16/2021,McDonald's,place_2,1,1
+10,01/20/2021,McDonald's,place_2,2,2
+11,01/01/2021,McDonald's,place_3,2,1
+12,01/02/2021,McDonald's,place_3,2,1
+13,01/06/2021,McDonald's,place_3,1,1
+14,01/08/2021,McDonald's,place_3,5,3
+15,01/09/2021,McDonald's,place_3,1,1
+16,01/15/2021,McDonald's,place_3,5,1
+17,01/17/2021,McDonald's,place_3,2,1
+18,01/20/2021,McDonald's,place_3,1,1
+19,01/21/2021,McDonald's,place_3,1,1
+20,01/04/2021,McDonald's,place_4,2,2
+21,01/05/2021,McDonald's,place_4,2,1
+22,01/06/2021,McDonald's,place_4,3,1
+23,01/11/2021,McDonald's,place_4,1,1
+24,01/14/2021,McDonald's,place_4,3,1
+25,01/18/2021,McDonald's,place_4,2,1
+26,01/21/2021,McDonald's,place_4,4,1
+27,01/05/2021,McDonald's,place_5,1,1
+28,01/06/2021,McDonald's,place_5,1,1
+29,01/07/2021,McDonald's,place_5,2,1
+30,01/11/2021,McDonald's,place_5,1,1
+31,01/15/2021,McDonald's,place_5,1,1
+32,01/04/2021,McDonald's,place_6,1,1
+33,01/12/2021,McDonald's,place_6,1,1
+34,01/14/2021,McDonald's,place_6,1,1
+35,01/02/2021,McDonald's,place_8,1,1
+36,01/08/2021,McDonald's,place_8,1,1
+37,01/09/2021,McDonald's,place_8,2,1
+38,01/17/2021,McDonald's,place_8,3,1
+39,01/18/2021,McDonald's,place_8,2,1
+40,01/19/2021,McDonald's,place_8,2,1
+41,01/20/2021,McDonald's,place_8,2,2
+42,01/03/2021,McDonald's,place_10,1,1
+43,01/15/2021,McDonald's,place_10,1,1
+44,01/17/2021,McDonald's,place_10,1,1
+45,01/02/2021,McDonald's,place_13,2,1
+46,01/05/2021,McDonald's,place_13,1,1
+47,01/06/2021,McDonald's,place_13,1,1
+48,01/10/2021,McDonald's,place_13,3,1
+49,01/12/2021,McDonald's,place_13,2,1
+50,01/18/2021,McDonald's,place_13,2,1
+51,01/09/2021,McDonald's,place_14,1,1
+52,01/11/2021,McDonald's,place_14,2,1
+53,01/13/2021,McDonald's,place_14,3,1
+54,01/17/2021,McDonald's,place_14,1,1
+55,01/05/2021,McDonald's,place_15,1,1
+56,01/08/2021,McDonald's,place_15,3,1
+57,01/10/2021,McDonald's,place_15,1,1
+58,01/11/2021,McDonald's,place_15,2,1
+59,01/13/2021,McDonald's,place_15,1,1
+60,01/14/2021,McDonald's,place_15,1,1
+61,01/15/2021,McDonald's,place_15,3,1
+62,01/18/2021,McDonald's,place_15,3,2
+63,01/01/2021,McDonald's,place_17,1,1
+64,01/16/2021,McDonald's,place_17,2,1
+65,01/01/2021,McDonald's,place_18,1,1
+66,01/15/2021,McDonald's,place_18,2,1
+67,01/16/2021,McDonald's,place_18,1,1
+68,01/19/2021,McDonald's,place_18,1,1
+69,01/08/2021,McDonald's,place_19,1,1
+70,01/10/2021,McDonald's,place_20,4,2
+71,01/17/2021,McDonald's,place_20,2,1
+72,01/10/2021,McDonald's,place_22,1,1
+73,01/12/2021,McDonald's,place_22,4,2
+74,01/13/2021,McDonald's,place_22,1,1
+75,01/19/2021,McDonald's,place_22,2,1
+76,01/13/2021,McDonald's,place_23,1,1
+77,01/14/2021,McDonald's,place_23,1,1
+78,01/15/2021,McDonald's,place_23,2,1
+79,01/21/2021,McDonald's,place_23,1,1
+80,01/01/2021,McDonald's,place_25,2,2
+81,01/09/2021,McDonald's,place_25,1,1
+82,01/10/2021,McDonald's,place_25,1,1
+83,01/14/2021,McDonald's,place_25,2,2
+84,01/01/2021,McDonald's,place_26,1,1
+85,01/05/2021,McDonald's,place_26,2,2
+86,01/09/2021,McDonald's,place_26,1,1
+87,01/11/2021,McDonald's,place_26,1,1
+88,01/15/2021,McDonald's,place_26,1,1
+89,01/18/2021,McDonald's,place_26,1,1
+90,01/04/2021,McDonald's,place_27,1,1
+91,01/09/2021,McDonald's,place_27,1,1
+92,01/01/2021,McDonald's,place_28,1,1
+93,01/04/2021,McDonald's,place_28,1,1
+94,01/05/2021,McDonald's,place_28,2,2
+95,01/07/2021,McDonald's,place_28,1,1
+96,01/11/2021,McDonald's,place_28,1,1
+97,01/15/2021,McDonald's,place_28,1,1
+98,01/18/2021,McDonald's,place_28,1,1
+99,01/01/2021,McDonald's,place_29,1,1
+100,01/06/2021,McDonald's,place_29,1,1
+101,01/13/2021,McDonald's,place_29,3,2
+102,01/15/2021,McDonald's,place_29,1,1
+103,01/20/2021,McDonald's,place_29,1,1
+104,01/21/2021,McDonald's,place_29,1,1
+105,01/01/2021,McDonald's,place_31,3,2
+106,01/13/2021,McDonald's,place_31,1,1
+107,01/18/2021,McDonald's,place_31,1,1
+108,01/19/2021,McDonald's,place_31,1,1
+109,01/09/2021,McDonald's,place_32,2,1
+110,01/11/2021,McDonald's,place_32,3,3
+111,01/15/2021,McDonald's,place_32,1,1
+112,01/02/2021,McDonald's,place_33,1,1
+113,01/04/2021,McDonald's,place_33,1,1
+114,01/05/2021,McDonald's,place_33,1,1
+115,01/12/2021,McDonald's,place_33,1,1
+116,01/13/2021,McDonald's,place_33,1,1
+117,01/14/2021,McDonald's,place_33,1,1
+118,01/15/2021,McDonald's,place_33,1,1
+119,01/04/2021,Burger King,place_35,1,1
+120,01/08/2021,Burger King,place_35,1,1
+121,01/14/2021,Burger King,place_35,1,1
+122,01/19/2021,Burger King,place_35,1,1
+123,01/18/2021,Burger King,place_37,3,3
+124,01/02/2021,Burger King,place_38,1,1
+125,01/04/2021,Burger King,place_38,1,1
+126,01/13/2021,Burger King,place_38,2,2
+127,01/15/2021,Burger King,place_38,2,1
+128,01/16/2021,Burger King,place_38,6,2
+129,01/17/2021,Burger King,place_38,1,1
+130,01/19/2021,Burger King,place_38,1,1
+131,01/03/2021,Burger King,place_40,1,1
+132,01/05/2021,Burger King,place_40,1,1
+133,01/08/2021,Burger King,place_40,2,1
+134,01/09/2021,Burger King,place_40,1,1
+135,01/10/2021,Burger King,place_40,1,1
+136,01/16/2021,Burger King,place_40,3,2
+137,01/03/2021,Burger King,place_41,1,1
+138,01/21/2021,Burger King,place_41,1,1
+139,01/01/2021,Burger King,place_42,4,1
+140,01/01/2021,Burger King,place_43,1,1
+141,01/16/2021,Burger King,place_43,1,1
+142,01/12/2021,Burger King,place_45,1,1
+143,01/06/2021,Burger King,place_48,1,1
+144,01/07/2021,Burger King,place_48,1,1
+145,01/10/2021,Burger King,place_48,1,1
+146,01/12/2021,Burger King,place_48,1,1
+147,01/13/2021,Burger King,place_49,1,1
+148,01/14/2021,Burger King,place_49,1,1
+149,01/20/2021,Burger King,place_49,1,1
+150,01/01/2021,Burger King,place_50,1,1
+151,01/06/2021,Burger King,place_50,1,1
+152,01/15/2021,Burger King,place_50,1,1
+153,01/20/2021,Subway,place_52,1,1
+154,01/04/2021,Subway,place_53,1,1
+155,01/04/2021,Aldi,place_54,1,1
+156,01/08/2021,Aldi,place_54,1,1
+157,01/21/2021,Aldi,place_54,1,1
+158,01/15/2021,Aldi,place_55,2,2
+159,01/02/2021,Aldi,place_58,1,1
+160,01/04/2021,Aldi,place_58,2,2
+161,01/06/2021,Aldi,place_58,2,1
+162,01/07/2021,Aldi,place_58,2,2
+163,01/11/2021,Aldi,place_58,1,1
+164,01/15/2021,Aldi,place_58,2,2
+165,01/06/2021,Aldi,place_60,2,1
+166,01/11/2021,Aldi,place_60,2,2
+167,01/12/2021,Aldi,place_60,1,1
+168,01/13/2021,Aldi,place_60,1,1
+169,01/14/2021,Aldi,place_60,2,2
+170,01/21/2021,Aldi,place_60,3,2
+171,01/07/2021,Aldi,place_61,2,2
+172,01/08/2021,Aldi,place_61,1,1
+173,01/19/2021,Aldi,place_61,1,1
+174,01/02/2021,Aldi,place_62,1,1
+175,01/04/2021,Aldi,place_62,1,1
+176,01/07/2021,Aldi,place_62,3,2
+177,01/09/2021,Aldi,place_62,2,1
+178,01/12/2021,Aldi,place_62,2,1
+179,01/18/2021,Aldi,place_62,1,1
+180,01/21/2021,Aldi,place_62,8,1
+181,01/01/2021,Aldi,place_64,1,1
+182,01/04/2021,Aldi,place_64,1,1
+183,01/14/2021,Aldi,place_64,1,1
+184,01/15/2021,Aldi,place_64,1,1
+185,01/14/2021,Aldi,place_65,1,1
+186,01/06/2021,Aldi,place_66,1,1
+187,01/02/2021,Aldi,place_67,1,1
+188,01/04/2021,Aldi,place_67,1,1
+189,01/14/2021,Aldi,place_68,2,1
+190,01/04/2021,Aldi,place_69,1,1
+191,01/18/2021,Aldi,place_69,1,1
+192,01/04/2021,Aldi,place_70,1,1
+193,01/05/2021,Aldi,place_70,1,1
+194,01/12/2021,Aldi,place_70,1,1
+195,01/14/2021,Aldi,place_70,1,1
+196,01/15/2021,Aldi,place_70,1,1
+197,01/19/2021,Aldi,place_71,1,1
+198,01/21/2021,Aldi,place_71,2,1
+199,01/15/2021,Aldi,place_72,2,2
+200,01/07/2021,Aldi,place_73,1,1
+201,01/06/2021,Aldi,place_74,1,1
+202,01/21/2021,Aldi,place_74,1,1
+203,01/04/2021,Aldi,place_75,1,1
+204,01/21/2021,Aldi,place_75,1,1
+205,01/08/2021,Aldi,place_77,1,1
+206,01/09/2021,Aldi,place_77,1,1
+207,01/13/2021,Aldi,place_77,1,1
+208,01/15/2021,Aldi,place_77,1,1
+209,01/16/2021,Aldi,place_77,2,1
+210,01/21/2021,Aldi,place_77,2,1
+211,01/21/2021,Aldi,place_78,1,1
+212,01/02/2021,Aldi,place_79,2,1
+213,01/03/2021,Aldi,place_79,1,1
+214,01/04/2021,Aldi,place_79,1,1
+215,01/05/2021,Aldi,place_79,1,1
+216,01/07/2021,Aldi,place_79,1,1
+217,01/08/2021,Aldi,place_79,1,1
+218,01/09/2021,Aldi,place_79,1,1
+219,01/10/2021,Aldi,place_79,5,2
+220,01/11/2021,Aldi,place_79,2,1
+221,01/12/2021,Aldi,place_79,2,2
+222,01/13/2021,Aldi,place_79,4,1
+223,01/14/2021,Aldi,place_79,2,1
+224,01/17/2021,Aldi,place_79,2,1
+225,01/19/2021,Aldi,place_79,1,1
+226,01/20/2021,Aldi,place_79,1,1
+227,01/21/2021,Aldi,place_79,1,1
+228,01/06/2021,Aldi,place_80,1,1
+229,01/08/2021,Aldi,place_80,1,1
+230,01/14/2021,Aldi,place_80,1,1
+231,01/15/2021,Aldi,place_80,1,1
+232,01/02/2021,Aldi,place_81,1,1
+233,01/15/2021,Aldi,place_81,1,1
+234,01/16/2021,Aldi,place_81,1,1
+235,01/18/2021,Aldi,place_81,3,1
+236,01/19/2021,Aldi,place_81,1,1
+237,01/21/2021,Aldi,place_81,3,2
+238,01/07/2021,Aldi,place_82,2,2
+239,01/08/2021,Aldi,place_82,1,1
+240,01/09/2021,Aldi,place_82,5,2
+241,01/18/2021,Aldi,place_82,1,1
+242,01/02/2021,Aldi,place_83,2,1
+243,01/08/2021,Aldi,place_83,1,1
+244,01/09/2021,Aldi,place_83,1,1
+245,01/12/2021,Aldi,place_83,1,1
+246,01/14/2021,Aldi,place_83,1,1
+247,01/15/2021,Aldi,place_83,1,1
+248,01/16/2021,Aldi,place_83,1,1
+249,01/20/2021,Aldi,place_83,2,1
+250,01/02/2021,Aldi,place_84,2,1
+251,01/06/2021,Aldi,place_84,1,1
+252,01/13/2021,Aldi,place_84,1,1
+253,01/14/2021,Aldi,place_84,1,1
+254,01/15/2021,Aldi,place_84,1,1
+255,01/04/2021,Aldi,place_85,1,1
+256,01/11/2021,Aldi,place_85,4,1
+257,01/16/2021,Aldi,place_85,1,1
+258,01/20/2021,Aldi,place_85,3,2
+259,01/09/2021,Aldi,place_86,1,1
+260,01/04/2021,Aldi,place_87,1,1
+261,01/05/2021,Aldi,place_87,1,1
+262,01/06/2021,Aldi,place_87,2,2
+263,01/16/2021,Aldi,place_87,1,1
+264,01/15/2021,Aldi,place_88,1,1
+265,01/16/2021,Aldi,place_88,1,1
+266,01/05/2021,Aldi,place_89,1,1
+267,01/07/2021,Aldi,place_89,2,1
+268,01/09/2021,Aldi,place_89,1,1
+269,01/15/2021,Aldi,place_89,1,1
+270,01/16/2021,Aldi,place_89,3,1
+271,01/18/2021,Aldi,place_89,5,2
+272,01/02/2021,Aldi,place_90,1,1
+273,01/21/2021,Aldi,place_90,2,1
+274,01/07/2021,Aldi,place_91,1,1
+275,01/11/2021,Aldi,place_91,1,1
+276,01/12/2021,Aldi,place_91,1,1
+277,01/15/2021,Aldi,place_91,2,2
+278,01/02/2021,Aldi,place_92,1,1
+279,01/08/2021,Aldi,place_92,2,2
+280,01/04/2021,Aldi,place_93,1,1
+281,01/14/2021,Aldi,place_93,2,1
+282,01/16/2021,Aldi,place_93,1,1
+283,01/21/2021,Aldi,place_93,1,1
